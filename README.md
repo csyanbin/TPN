@@ -53,7 +53,7 @@ python train.py --gpu=0 --n_way=5 --n_shot=5 --n_test_way=5 --n_test_shot=5 --lr
 
 
 ## Citation
-If you use our code, please consider cite the following:
+If you use our code, please consider to cite the following paper:
 * Yanbin Liu, Juho Lee, Minseop Park, Saehoon Kim, Eunho Yang, Sungju Hwang, Yi Yang. Learning to Propagate Labels: Transductive Propagation Network for Few-shot Learning. In *Proceedings of 7th International Conference on Learning Representations (ICLR)*, 2019.
 
 ```
