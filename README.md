@@ -61,12 +61,12 @@ If you use our code, please consider cite the following:
 @inproceedings{liu2019fewTPN,
 	title={Learning to Propagate Labels: Transductive Propagation Network for Few-shot Learning},
 	author={Yanbin Liu and 
-			Juho Lee and 
-			Minseop Park and 
-			Saehoon Kim and 
-			Eunho Yang and 
-			Sungju Hwang and 
-			Yi Yang},
+		Juho Lee and 
+		Minseop Park and 
+		Saehoon Kim and 
+		Eunho Yang and 
+		Sungju Hwang and 
+		Yi Yang},
 booktitle={International Conference on Learning Representations},
 year={2019},
 }
